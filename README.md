@@ -39,6 +39,7 @@ dl-vfl-derma/
 │
 ├── figures/                       ← All generated figures (Pareto, reconstruction grids, bits plots)
 ├── results_final/                 ← Per-method JSON metrics (utility + reconstruction, 2 seeds each)
+│                                    (model checkpoints available separately — see below)
 ├── embedding_analysis/            ← Silhouette scores, t-SNE PNGs, codebook utilization
 │
 ├── DL Project Report Template/    ← Full LaTeX source
@@ -68,6 +69,16 @@ Install in one step:
 ```bash
 pip install torch torchvision timm lpips scikit-learn matplotlib pandas numpy
 ```
+
+---
+
+### Model Checkpoints
+
+Trained model weights for all 11 methods × 2 seeds (22 `.pt` files, ~374 MB total) are hosted on Google Drive and are not included in this repository:
+
+**[Download Checkpoints](https://drive.google.com/drive/folders/1gS6W70RRdUbKQVLTXbEKrs1yRIs9PuSz?usp=share_link)**
+
+Place the downloaded `checkpoints/` folder inside `results_final/` before running Stage B or the reconstruction notebooks.
 
 ### Dataset
 
