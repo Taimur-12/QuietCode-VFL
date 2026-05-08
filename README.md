@@ -2,8 +2,6 @@
 
 **Group 38 | CS 437 — Deep Learning | Spring 2026**
 
-GitHub Repository: [https://github.com/Taimur-12/CS-437-VFL](https://github.com/Taimur-12/CS-437-VFL)
-
 ---
 
 ## Table of Contents
@@ -41,8 +39,6 @@ dl-vfl-derma/
 ├── results_final/                 ← Per-method JSON metrics (utility + reconstruction, 2 seeds each)
 │                                    (model checkpoints available separately — see below)
 ├── embedding_analysis/            ← Silhouette scores, t-SNE PNGs, codebook utilization
-│
-├── DL Project Report Template/    ← Full LaTeX source
 └── 38_27100028_27100183_Report.pdf ← Final compiled report
 ```
 
