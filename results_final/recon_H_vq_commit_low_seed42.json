@@ -1,0 +1,13 @@
+{
+  "ssim_mean": 0.5150013365045982,
+  "ssim_std": 0.15194336596562394,
+  "lpips_mean": 0.22756986524038517,
+  "lpips_std": 0.10619975991690929,
+  "n_val_samples": 5067,
+  "feat_dim": 128,
+  "invernet_epochs": 50,
+  "skipped": false,
+  "method": "H_vq_commit_low",
+  "seed": 42,
+  "took_s": 1834.991506099701
+}

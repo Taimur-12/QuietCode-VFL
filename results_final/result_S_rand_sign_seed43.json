@@ -1,0 +1,20 @@
+{
+  "method": "S_rand_sign",
+  "seed": 43,
+  "passive_type": "rand_sign",
+  "best_wacc": 0.7298554968015725,
+  "best_epoch": 36,
+  "per_class_recall": [
+    0.594475138121547,
+    0.7572815533980582,
+    0.6947368421052632,
+    0.7298850574712644,
+    0.6819047619047619,
+    0.7659574468085106,
+    0.94,
+    0.6746031746031746
+  ],
+  "tail_mean": 0.7776114197207373,
+  "comm_bits": 128,
+  "ckpt_path": "/kaggle/working/results_d1v9/checkpoints/S_rand_sign_seed43.pt"
+}

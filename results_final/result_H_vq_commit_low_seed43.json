@@ -1,0 +1,20 @@
+{
+  "method": "H_vq_commit_low",
+  "seed": 43,
+  "passive_type": "vq",
+  "best_wacc": 0.7712258633310256,
+  "best_epoch": 40,
+  "per_class_recall": [
+    0.6740331491712708,
+    0.8267961165048544,
+    0.7954887218045112,
+    0.7068965517241379,
+    0.7504761904761905,
+    0.7659574468085106,
+    0.92,
+    0.7301587301587301
+  ],
+  "tail_mean": 0.7807531821728447,
+  "comm_bits": 64,
+  "ckpt_path": "/kaggle/working/results_d1v9/checkpoints/H_vq_commit_low_seed43.pt"
+}

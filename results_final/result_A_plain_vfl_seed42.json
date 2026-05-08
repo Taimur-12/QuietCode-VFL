@@ -1,0 +1,20 @@
+{
+  "method": "A_plain_vfl",
+  "seed": 42,
+  "passive_type": "plain",
+  "best_wacc": 0.7559053729359426,
+  "best_epoch": 39,
+  "per_class_recall": [
+    0.630939226519337,
+    0.8267961165048544,
+    0.7218045112781954,
+    0.6896551724137931,
+    0.7161904761904762,
+    0.851063829787234,
+    0.96,
+    0.6507936507936508
+  ],
+  "tail_mean": 0.7878781632486694,
+  "comm_bits": 40960,
+  "ckpt_path": "/kaggle/working/results_d1v9/checkpoints/A_plain_vfl_seed42.pt"
+}

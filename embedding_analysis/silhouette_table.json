@@ -1,0 +1,37 @@
+{
+  "A_plain_vfl": {
+    "silhouette": 0.01490511279553175,
+    "codebook_util": null,
+    "comm_bits": 40960
+  },
+  "A_proj_vfl": {
+    "silhouette": -0.015497329644858837,
+    "codebook_util": null,
+    "comm_bits": 4096
+  },
+  "S_sign_quant": {
+    "silhouette": 0.05781197175383568,
+    "codebook_util": null,
+    "comm_bits": 128
+  },
+  "H_vq_K64": {
+    "silhouette": 0.07357008755207062,
+    "codebook_util": 0.98828125,
+    "comm_bits": 48
+  },
+  "H_vq_K256": {
+    "silhouette": 0.07355096191167831,
+    "codebook_util": 0.978515625,
+    "comm_bits": 64
+  },
+  "H_vq_M4": {
+    "silhouette": 0.1363425850868225,
+    "codebook_util": 0.9208984375,
+    "comm_bits": 32
+  },
+  "H_vq_M16": {
+    "silhouette": 0.053476013243198395,
+    "codebook_util": 0.995361328125,
+    "comm_bits": 128
+  }
+}

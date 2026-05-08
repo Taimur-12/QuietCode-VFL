@@ -1,0 +1,13 @@
+{
+  "ssim_mean": 0.5156082677134212,
+  "ssim_std": 0.14992476833709062,
+  "lpips_mean": 0.22370445173919695,
+  "lpips_std": 0.1063288903788257,
+  "n_val_samples": 5067,
+  "feat_dim": 128,
+  "invernet_epochs": 50,
+  "skipped": false,
+  "method": "H_vq_K256",
+  "seed": 42,
+  "took_s": 1826.827060699463
+}

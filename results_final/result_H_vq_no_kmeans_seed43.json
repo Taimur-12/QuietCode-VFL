@@ -1,0 +1,20 @@
+{
+  "method": "H_vq_no_kmeans",
+  "seed": 43,
+  "passive_type": "vq",
+  "best_wacc": 0.7792947004271347,
+  "best_epoch": 35,
+  "per_class_recall": [
+    0.6640883977900552,
+    0.8353398058252427,
+    0.7744360902255639,
+    0.7068965517241379,
+    0.7657142857142857,
+    0.8297872340425532,
+    0.92,
+    0.7380952380952381
+  ],
+  "tail_mean": 0.7986947559654823,
+  "comm_bits": 64,
+  "ckpt_path": "/kaggle/working/results_d1v9/checkpoints/H_vq_no_kmeans_seed43.pt"
+}

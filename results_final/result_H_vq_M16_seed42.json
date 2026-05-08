@@ -1,0 +1,20 @@
+{
+  "method": "H_vq_M16",
+  "seed": 42,
+  "passive_type": "vq",
+  "best_wacc": 0.7731546204341699,
+  "best_epoch": 40,
+  "per_class_recall": [
+    0.6961325966850829,
+    0.8450485436893204,
+    0.7879699248120301,
+    0.7701149425287356,
+    0.7428571428571429,
+    0.8085106382978723,
+    0.86,
+    0.6746031746031746
+  ],
+  "tail_mean": 0.7783071888574455,
+  "comm_bits": 128,
+  "ckpt_path": "/kaggle/working/results_d1v9/checkpoints/H_vq_M16_seed42.pt"
+}

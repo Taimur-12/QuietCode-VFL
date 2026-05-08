@@ -1,0 +1,20 @@
+{
+  "method": "S_sign_quant",
+  "seed": 43,
+  "passive_type": "sign",
+  "best_wacc": 0.776531850051719,
+  "best_epoch": 38,
+  "per_class_recall": [
+    0.6441988950276243,
+    0.8201941747572815,
+    0.7759398496240602,
+    0.7068965517241379,
+    0.7333333333333333,
+    0.8297872340425532,
+    0.94,
+    0.7619047619047619
+  ],
+  "tail_mean": 0.8096471369178633,
+  "comm_bits": 128,
+  "ckpt_path": "/kaggle/working/results_d1v9/checkpoints/S_sign_quant_seed43.pt"
+}
